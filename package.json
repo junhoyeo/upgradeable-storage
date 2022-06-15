@@ -1,0 +1,9 @@
+{
+  "name": "upgradeable-storage",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/junhoyeo/upgradeable-storage",
+  "author": "Junho Yeo <i@junho.io>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.1"
+}
